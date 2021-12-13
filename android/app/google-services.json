@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "104064232132",
+    "project_id": "testsnslogin-4d12b",
+    "storage_bucket": "testsnslogin-4d12b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104064232132:android:c689786ec40aa9b3afb791",
+        "android_client_info": {
+          "package_name": "com.zephyr.snslogin.sample_sns_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104064232132-pq7b295u8rlqvqv68epbq6afo4o23sre.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zephyr.snslogin.sample_sns_login",
+            "certificate_hash": "ee1dbe59116255a1ecfcaa7dc2a91c1ef98eff94"
+          }
+        },
+        {
+          "client_id": "104064232132-schf9udevjopga7qtbpmbcn1fj83grob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7GJWx1VQEgtPXWQ_dsneUU0BAnYe4FQE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "104064232132-schf9udevjopga7qtbpmbcn1fj83grob.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "104064232132-k7kpe2a72lfc5t5smkd9ra5rc26fq0qs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.zephyr.snslogin.sample-sns-login"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
